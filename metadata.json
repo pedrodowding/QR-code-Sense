@@ -1,0 +1,5 @@
+{
+  "name": "QR Sense",
+  "description": "A multi-tenant web application for generating and tracking dynamic QR Codes. Includes a comprehensive dashboard, analytics, customization options, and AI-powered insights for Pro users.",
+  "requestFramePermissions": []
+}
